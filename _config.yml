@@ -1,0 +1,14 @@
+layout_spectrum: 0.5288221
+typography_spectrum: 0.5570176
+color:
+  lightness: 0.8761356
+  brandStrength: 0.5025063
+  saturation: 0.5194235
+  rhythmicContrast: 0.2468672
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: Gas Guru
